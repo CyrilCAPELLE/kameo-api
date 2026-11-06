@@ -1,0 +1,6 @@
+@KameoApi_HostAddress = http://localhost:5109
+
+GET {{KameoApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
